@@ -55,4 +55,6 @@ export const router = createBrowserRouter([
       },
     ],
   },
-]);
+], {
+  basename: "/toms-mvp",
+});
